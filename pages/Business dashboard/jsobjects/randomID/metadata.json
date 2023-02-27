@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "randomID",
+    "pageId": "Business dashboard",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Business dashboard_randomID",
+  "deleted": false,
+  "gitSyncId": "63fc571bdae7a7260f6cef00_63fc5727dae7a7260f6cef3b"
+}
