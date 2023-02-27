@@ -3,7 +3,7 @@ export default {
 	myVar2: {},
 		getCarSalesRevenue: () => {
 		const arr = select_showroom_db.data.map(x => parseInt(x.selling_price))
-		return ((arr.reduce((a, b) => a + b, 0)))
+		return ((arr.reduce((a, c) => a + b, 0)))
 	},
 		search: () => {
 		if(Input1Copy.text.length==0){

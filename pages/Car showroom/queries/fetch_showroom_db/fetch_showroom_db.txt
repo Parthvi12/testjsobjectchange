@@ -9,7 +9,7 @@ INSERT INTO showroom_db
 	 {{model_name_select.selectedOptionValue}},
 	 {{car_model_type_input.selectedOptionValue}},
 	 {{car_chassis_no_input.text}},
-	 {{sp_input.value}},
+	 {{sp_input.value2}},
 	 {{select_salesperson2.selectedOptionLabel}},
 	 {{Rating2.value}},
 	 {{select_salesperson2.selectedOptionValue}}
